@@ -1,0 +1,17 @@
+{
+  "name": "bmitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
